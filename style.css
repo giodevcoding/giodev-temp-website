@@ -439,7 +439,7 @@ a.no-line {
 
     .header__logo-container {
         max-width: 40rem;
-        margin-bottom: 10rem;
+        margin-bottom: 8rem;
     }
 
     .header__logo-container.header__logo-container--contact {
@@ -492,6 +492,10 @@ a.no-line {
 
     .main-body__heading {
         margin-left: -2rem;
+    }
+
+    .contact-page__heading {
+        margin-bottom: 0rem;
     }
 
     .contact-page__link {
