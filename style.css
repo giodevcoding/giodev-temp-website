@@ -300,12 +300,20 @@ a {
     color: #9397CD;
 }
 
+.main-body__natours {
+    color: #7ed56f;
+}
+
+.main-body__natours:hover {
+    color: #bfeab7;
+}
+
 .main-body__github {
-    color: #72CA7B;
+    color: #ec6547;
 }
 
 .main-body__github:hover {
-    color: #AED4B2;
+    color: #ffa28b;
 }
 
 .contact-page {
