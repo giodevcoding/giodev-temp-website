@@ -271,7 +271,7 @@ a {
 
 .main-body {
     margin: 6rem 4rem 8rem;
-    max-width: 64rem;
+    max-width: 80rem;
 
     opacity: 0;
     animation: fade-in .4s ease-in-out 2.9s forwards;
@@ -306,6 +306,22 @@ a {
 
 .main-body__natours:hover {
     color: #bfeab7;
+}
+
+.main-body__trillo {
+    color: #ff3366;
+}
+
+.main-body__trillo:hover {
+    color: #ffb1c5;
+}
+
+.main-body__nexter {
+    color: #c69963;
+}
+
+.main-body__nexter:hover {
+    color: #dac6ae;
 }
 
 .main-body__github {
